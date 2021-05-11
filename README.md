@@ -1,8 +1,8 @@
-# Emergency Fund and Retirement Planning Analysis
+# Cryptocurrency Clustering
 
-According to _themedium.com_, a __whale__ "A whale is any individual or company who has enough money and power to directly influence the price of a cryptocurrency or stock, usually in a negative way. Think of a whale and their large mass. They can make huge splashes and the same concept can be applied to crypto/financial markets."
+Unsurpervised learning...
 
-![Emergency Fund and Retirement Planning Analysis](../images/image_1.jpg)
+![Cryptocurrency_Clustering](../images/image_1.jpg)
 
 ---
 
@@ -11,9 +11,13 @@ According to _themedium.com_, a __whale__ "A whale is any individual or company 
 
 Before attempting to execute any _Python_ code in `risk_return_analysis.ipynb`, it is imperative that your development environment holds the following modules:
 
-[pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module.
+[pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis and manipulation module
 
-[matplotlib](https://matplotlib.org/) - Data visualization module.
+[hvplot](https://pypi.org/project/hvplot/) - Interactive plotting module
+
+[pathlib](https://docs.python.org/3/library/pathlib.html) - Object-oriented filesystem path module
+
+[sklearn](https://sklearn.org/) - Machine learning module
 
 ---
 
@@ -23,32 +27,34 @@ With your _Python 3.7+_ environment, run the following commands via CLI:
 
 ```
 pip install pandas
-pip install matplotlib
+pip install hvplot
+pip install pathlib
+pip install sklearn
 ```
 
 ---
 
 ## Examples
 
-[Table](../images/image_2.png)
+[Table](../images/)
 
-[Plot](../images/image_3.png)
+[Plot](../images/)
 
 ---
 
 ## Usage
 
-1. Clone repository onto your personal machine. 
+1. Clone repository onto your personal machine.
 
-2. Open _Jupyter Lab_ or _Jupyter Notebook_ via _Anaconda Navigator_ and navigate to the directory in which the file `risk_return_analysis.ipynb` is present. _All relevant code for this repository will be executed via Jupyter Notebook and no output will be printed to the command line_. Ensure that all relevant dependencies and _Python_ modules are installed (see __Technologies__ and __Installation Guide__ for more details) before attempting to execute code within _Jupyter Notebook_; otherwise, you will receive multiple interpreter errors! 
+Open Jupyter Lab or Jupyter Notebook via Anaconda Navigator and navigate to the directory in which the file crypto_investments.ipynb is present. All relevant code for this repository will be executed via Jupyter Notebook and no output will be printed to the command line. Ensure that all relevant dependencies and Python modules are installed (see Technologies and Installation Guide for more details) before attempting to execute code within Jupyter Notebook; otherwise, you will receive multiple interpreter errors!
 
-3. With the notebook open, start at the very first cell reading "__Analyzing Portfolio Risk and Return__" (a cell will be active when a rectangular border is surrounding the area in question). Run each cell in sequential order. _It is vital that all cells are ran in sequential order or your notebook will generate compiler errors_!. 
+With the notebook open, start at the very first cell reading "Challenge: Crypto Investments" (a cell will be active when a rectangular border is surrounding the area in question). Run each cell in sequential order. It is vital that all cells are ran in sequential order or your notebook will generate compiler errors!.
 
 ---
 
 ## Contributors
 
-New development created by Scientia Capital. **Code from 'Uploaded Starter Files' commit originates from UC Berkeley Extension FinTech Bootcamp and I do not claim original ownership nor scholarship**.
+New development created by Scientia Capital. Code from 'Initial commit.' commit originates from UC Berkeley Extension and I do not claim original ownership nor scholarship.
 
 ---
 
