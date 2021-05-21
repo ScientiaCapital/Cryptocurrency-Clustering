@@ -9,7 +9,7 @@ Unsurpervised learning...
 ## Technologies
 
 
-Before attempting to execute any _Python_ code in `risk_return_analysis.ipynb`, it is imperative that your development environment holds the following modules:
+Before attempting to execute any _Python_ code in `crypto_investments.ipynb`, it is imperative that your development environment holds the following modules:
 
 [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis and manipulation module
 
