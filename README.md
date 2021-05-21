@@ -36,7 +36,7 @@ pip install sklearn
 
 ## Examples
 
-[Table](../images/)
+[Table](../images/https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Screen%20Shot%202021-05-21%20at%201.47.05%20PM.png)
 
 [Plot](../images/)
 
