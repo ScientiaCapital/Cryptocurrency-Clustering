@@ -1,6 +1,6 @@
 # Cryptocurrency Clustering
 
-Unsurpervised learning...
+With Unsurpervised Learning, this module takes a cryptocurrency portfolio proposal based on certain factors taken into account based on the crypto data given.
 
 ![Cryptocurrency_Clustering](../images/image_1.jpg)
 
@@ -44,12 +44,11 @@ pip install sklearn
 
 ## Usage
 
-1. Clone repository onto your personal machine.
+1.  Clone repository onto your personal machine.
 
-Open Jupyter Lab or Jupyter Notebook via Anaconda Navigator and navigate to the directory in which the file crypto_investments.ipynb is present. All relevant code for this repository will be executed via Jupyter Notebook and no output will be printed to the command line. Ensure that all relevant dependencies and Python modules are installed (see Technologies and Installation Guide for more details) before attempting to execute code within Jupyter Notebook; otherwise, you will receive multiple interpreter errors!
+2.  Open Jupyter Lab or Jupyter Notebook via Anaconda Navigator and navigate to the directory in which the file crypto_investments.ipynb is present. All relevant code for this repository will be executed via Jupyter Notebook and no output will be printed to the command line. Ensure that all relevant dependencies and Python modules are installed (see Technologies and Installation Guide for more details) before attempting to execute code within Jupyter Notebook; otherwise, you will receive multiple interpreter errors!
 
-With the notebook open, start at the very first cell reading "Challenge: Crypto Investments" (a cell will be active when a rectangular border is surrounding the area in question). Run each cell in sequential order. It is vital that all cells are ran in sequential order or your notebook will generate compiler errors!.
-
+3.  With the notebook open, start at the very first cell reading "Challenge: Crypto Investments" (a cell will be active when a rectangular border is surrounding the area in question). Run each cell in sequential order. It is vital that all cells are ran in sequential order or your notebook will generate compiler errors!.
 ---
 
 ## Contributors
