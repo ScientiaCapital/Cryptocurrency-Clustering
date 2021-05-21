@@ -1,6 +1,6 @@
 # Cryptocurrency Clustering
 
-With Unsurpervised Learning, this module takes a cryptocurrency portfolio proposal based on certain factors taken into account based on the crypto data given.
+Unsurpervised Learning, this module takes a cryptocurrency portfolio proposal based on certain factors taken into account based on the crypto data given.
 
 ![Cryptocurrency_Clustering](https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Crypto_pic.jpeg)
 
