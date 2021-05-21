@@ -2,7 +2,7 @@
 
 With Unsurpervised Learning, this module takes a cryptocurrency portfolio proposal based on certain factors taken into account based on the crypto data given.
 
-![Cryptocurrency_Clustering](../images/image_1.jpg)
+![Cryptocurrency_Clustering]()
 
 ---
 
@@ -36,9 +36,10 @@ pip install sklearn
 
 ## Examples
 
-[Table](../images/https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Screen%20Shot%202021-05-21%20at%201.47.05%20PM.png)
+![Example_One](https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Screen%20Shot%202021-05-21%20at%201.47.05%20PM.png)
 
-[Plot](../https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Screen%20Shot%202021-05-21%20at%201.47.39%20PM.png)
+![Example_Two](https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Screen%20Shot%202021-05-21%20at%201.47.39%20PM.png)
+
 
 ---
 
